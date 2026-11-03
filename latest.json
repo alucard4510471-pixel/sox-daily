@@ -1,0 +1,103 @@
+{
+ "generated_utc": "2026-11-03 10:31",
+ "generated_jst": "2026-11-03 19:31",
+ "us_date": "2026-11-02",
+ "sox": {
+  "close": 10328.33,
+  "chg": -0.0337,
+  "ma200": 10793.85,
+  "gap": -0.0431,
+  "next_close_threshold": 10808.3,
+  "days_above": 0,
+  "ma20_gap": -0.1124,
+  "ma50_gap": -0.1276,
+  "rsi14": 33.3,
+  "from_52w_high": -0.2943
+ },
+ "signals": {
+  "start_date": "2026-11-04",
+  "sig1_date": null,
+  "sig2_date": null
+ },
+ "soxl": {
+  "date": "2026-11-02",
+  "close": 68.17,
+  "chg": -0.1152
+ },
+ "volume": {
+  "date": "2026-11-02",
+  "ratio": 1.35,
+  "chg": -0.0379,
+  "close_pos": 0.06,
+  "A": false,
+  "B": false,
+  "C": false,
+  "E": false,
+  "A_then_down": true,
+  "smh_ratio": 1.14
+ },
+ "macro": {
+  "VIX": {
+   "close": 21.28,
+   "chg": 0.0061,
+   "date": "2026-11-03"
+  },
+  "VIX3M": {
+   "close": 21.6,
+   "chg": 0.0395,
+   "date": "2026-11-02"
+  },
+  "US10Y": {
+   "close": 4.894,
+   "chg": -0.0071,
+   "date": "2026-11-02"
+  },
+  "Brent": {
+   "close": 105.74,
+   "chg": 0.0093,
+   "date": "2026-11-03"
+  },
+  "WTI": {
+   "close": 97.63,
+   "chg": 0.0121,
+   "date": "2026-11-03"
+  },
+  "HYG": {
+   "close": 76.89,
+   "chg": -0.007,
+   "date": "2026-11-02"
+  }
+ },
+ "semis": {
+  "NVDA": {
+   "close": 202.06,
+   "chg": -0.0126,
+   "date": "2026-11-02"
+  },
+  "AMD": {
+   "close": 466.84,
+   "chg": -0.0752,
+   "date": "2026-11-02"
+  },
+  "MU": {
+   "close": 833.59,
+   "chg": -0.0578,
+   "date": "2026-11-02"
+  },
+  "AVGO": {
+   "close": 322.23,
+   "chg": -0.0118,
+   "date": "2026-11-02"
+  },
+  "TSM": {
+   "close": 398.63,
+   "chg": -0.0185,
+   "date": "2026-11-02"
+  },
+  "SNDK": {
+   "close": 1075.08,
+   "chg": -0.0659,
+   "date": "2026-11-02"
+  }
+ }
+}
