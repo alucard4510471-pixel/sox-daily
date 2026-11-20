@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-11-20 22:20",
- "generated_jst": "2026-11-21 07:20",
+ "generated_utc": "2026-11-20 23:19",
+ "generated_jst": "2026-11-21 08:19",
  "us_date": "2026-11-20",
  "sox": {
   "close": 8408.59,
@@ -26,7 +26,7 @@
  },
  "volume": {
   "date": "2026-11-20",
-  "ratio": 2.81,
+  "ratio": 2.82,
   "chg": -0.1055,
   "close_pos": 0.09,
   "A": true,
@@ -34,7 +34,7 @@
   "C": false,
   "E": false,
   "A_then_down": false,
-  "smh_ratio": 2.48
+  "smh_ratio": 2.5
  },
  "macro": {
   "VIX": {
